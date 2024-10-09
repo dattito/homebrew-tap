@@ -5,8 +5,8 @@ class EssiGb2024 < Formula
   url "https://github.com/dattito/homebrew-tap/releases/download/cli_0.2.2/cli"
   sha256 "d70f7258ef7df6dfa024eca9c01501cd51cc850ad07356686f5f779c7c59adbf"
 
+  # rename the executable
   def install
     bin.install "cli" => "essi-gb-2024"
   end
 end
-
