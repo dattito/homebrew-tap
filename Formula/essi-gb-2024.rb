@@ -4,8 +4,8 @@
 class EssiGb2024 < Formula
   desc "Birthday of a friend"
   homepage "https://github.com/dattito/homebrew-tap"
-  url "https://github.com/dattito/homebrew-tap/releases/download/cli_0.3.2/cli"
-  sha256 "0871cedb3a31fc801690093d0acc65eaaea29f1222356bc4a3c163fe234d678e"
+  url "https://github.com/dattito/homebrew-tap/releases/download/cli_0.4.0/cli"
+  sha256 "e688679888f4f25c35d2263b651569c662329d9638aa7b5b101176c68101ecb8"
 
   # rename the executable
   def install
